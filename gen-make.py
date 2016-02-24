@@ -18,8 +18,6 @@
 # specific language governing permissions and limitations
 # under the License.
 #
-#
-#
 # gen-make.py -- generate makefiles for building Subversion
 #
 
